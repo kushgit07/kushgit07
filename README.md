@@ -6,6 +6,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushgit07" alt="kushgit07" /></a> </p>
 
 
+<div align="center">
+  <object type="image/svg+xml" data="https://raw.githubusercontent.com/kushgit07/code-collector-main/refs/heads/main/code-collector-main/assets/code-collector.svg"
+    Your browser does not support SVG
+  </object>
+</div>
+
+
+
 - 🔭 I’m currently working on [promptforage](https://kushgit07.github.io/PromptForge/)
 
 - 🌱 I’m currently learning **react js , node js , next js , express js , mongodb ....**
