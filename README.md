@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://github.com/kushgit07/MY_RESUME/blob/main/Kushagra%20Sisodia_Resume.pdf](https://github.com/kushgit07/MY_RESUME/blob/main/Kushagra%20Sisodia_Resume.pdf)
 
-- ⚡ Fun fact **I AM FUNNY WITH A GOOD SENSE OF HUMOUR**
+- ⚡ Fun fact **I AM A FUNNY GUY WITH A GOOD SENSE OF HUMOUR**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
