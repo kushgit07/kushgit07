@@ -1,5 +1,171 @@
 <h1 align="center">Hi 👋, I'm KUSHAGRA SISODIA</h1>
 <h3 align="center">A passionate frontend developer from India with knowledge in computer science stuff</h3>
+<svg width="400" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#f0f8ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="hoverGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ffeb3b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffd700;stop-opacity:1" />
+    </linearGradient>
+    
+    <radialGradient id="bgGradient" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#16213e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0f0f23;stop-opacity:1" />
+    </radialGradient>
+    
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <style>
+    .background {
+      fill: url(#bgGradient);
+    }
+    
+    .star {
+      fill: #ffffff;
+      opacity: 0.8;
+    }
+    
+    .star-twinkle {
+      animation: twinkle 2s ease-in-out infinite;
+    }
+    
+    .star-float {
+      animation: float 4s ease-in-out infinite;
+    }
+    
+    .star-pulse {
+      animation: pulse 3s ease-in-out infinite;
+    }
+    
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.3; transform: scale(0.8); }
+      50% { opacity: 1; transform: scale(1.2); }
+    }
+    
+    @keyframes float {
+      0%, 100% { transform: translateY(0px) translateX(0px); }
+      25% { transform: translateY(-3px) translateX(2px); }
+      50% { transform: translateY(2px) translateX(-1px); }
+      75% { transform: translateY(-1px) translateX(3px); }
+    }
+    
+    @keyframes pulse {
+      0%, 100% { opacity: 0.5; }
+      50% { opacity: 1; }
+    }
+    
+    .name-text {
+      font-family: 'Arial', sans-serif;
+      font-size: 28px;
+      font-weight: bold;
+      fill: url(#textGradient);
+      cursor: pointer;
+      transition: all 0.3s ease;
+      filter: url(#glow);
+    }
+    
+    .name-text:hover {
+      fill: url(#hoverGradient);
+      transform: scale(1.05);
+      filter: url(#glow) drop-shadow(0px 0px 10px rgba(255,215,0,0.6));
+    }
+    
+    .letter {
+      animation: wave 2s ease-in-out infinite;
+    }
+    
+    .letter:nth-child(1) { animation-delay: 0s; }
+    .letter:nth-child(2) { animation-delay: 0.1s; }
+    .letter:nth-child(3) { animation-delay: 0.2s; }
+    .letter:nth-child(4) { animation-delay: 0.3s; }
+    .letter:nth-child(5) { animation-delay: 0.4s; }
+    .letter:nth-child(6) { animation-delay: 0.5s; }
+    .letter:nth-child(7) { animation-delay: 0.6s; }
+    .letter:nth-child(8) { animation-delay: 0.7s; }
+    .letter:nth-child(9) { animation-delay: 0.8s; }
+    .letter:nth-child(10) { animation-delay: 0.9s; }
+    .letter:nth-child(11) { animation-delay: 1.0s; }
+    .letter:nth-child(12) { animation-delay: 1.1s; }
+    .letter:nth-child(13) { animation-delay: 1.2s; }
+    .letter:nth-child(14) { animation-delay: 1.3s; }
+    .letter:nth-child(15) { animation-delay: 1.4s; }
+    
+    @keyframes wave {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-5px); }
+    }
+    
+    .name-text:hover .letter {
+      animation: bounce 0.6s ease;
+    }
+    
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0px); }
+      25% { transform: translateY(-8px); }
+      50% { transform: translateY(-4px); }
+      75% { transform: translateY(-6px); }
+    }
+  </style>
+  
+  <!-- Starry Background -->
+  <rect width="400" height="80" class="background"/>
+  
+  <!-- Animated Stars -->
+  <!-- Large twinkling stars -->
+  <circle cx="50" cy="20" r="1.5" class="star star-twinkle" style="animation-delay: 0s;"/>
+  <circle cx="120" cy="15" r="1" class="star star-pulse" style="animation-delay: 0.5s;"/>
+  <circle cx="180" cy="25" r="1.2" class="star star-float" style="animation-delay: 1s;"/>
+  <circle cx="280" cy="18" r="1" class="star star-twinkle" style="animation-delay: 1.5s;"/>
+  <circle cx="350" cy="22" r="1.3" class="star star-pulse" style="animation-delay: 2s;"/>
+  
+  <!-- Medium stars -->
+  <circle cx="30" cy="60" r="0.8" class="star star-float" style="animation-delay: 0.3s;"/>
+  <circle cx="90" cy="65" r="1" class="star star-twinkle" style="animation-delay: 0.8s;"/>
+  <circle cx="150" cy="70" r="0.7" class="star star-pulse" style="animation-delay: 1.3s;"/>
+  <circle cx="220" cy="62" r="0.9" class="star star-float" style="animation-delay: 1.8s;"/>
+  <circle cx="320" cy="68" r="0.8" class="star star-twinkle" style="animation-delay: 2.3s;"/>
+  <circle cx="380" cy="65" r="1" class="star star-pulse" style="animation-delay: 2.8s;"/>
+  
+  <!-- Small scattered stars -->
+  <circle cx="70" cy="35" r="0.5" class="star star-pulse" style="animation-delay: 0.2s;"/>
+  <circle cx="140" cy="55" r="0.4" class="star star-twinkle" style="animation-delay: 0.7s;"/>
+  <circle cx="200" cy="10" r="0.6" class="star star-float" style="animation-delay: 1.2s;"/>
+  <circle cx="260" cy="70" r="0.5" class="star star-pulse" style="animation-delay: 1.7s;"/>
+  <circle cx="300" cy="40" r="0.4" class="star star-twinkle" style="animation-delay: 2.2s;"/>
+  <circle cx="370" cy="45" r="0.6" class="star star-float" style="animation-delay: 2.7s;"/>
+  <circle cx="25" cy="40" r="0.4" class="star star-pulse" style="animation-delay: 3.2s;"/>
+  <circle cx="110" cy="30" r="0.5" class="star star-twinkle" style="animation-delay: 3.7s;"/>
+  <circle cx="240" cy="35" r="0.4" class="star star-float" style="animation-delay: 4.2s;"/>
+  
+  <!-- Tiny stars for depth -->
+  <circle cx="60" cy="50" r="0.3" class="star star-float" style="animation-delay: 0.1s;"/>
+  <circle cx="100" cy="45" r="0.2" class="star star-pulse" style="animation-delay: 0.6s;"/>
+  <circle cx="160" cy="40" r="0.3" class="star star-twinkle" style="animation-delay: 1.1s;"/>
+  <circle cx="290" cy="55" r="0.2" class="star star-float" style="animation-delay: 1.6s;"/>
+  <circle cx="340" cy="35" r="0.3" class="star star-pulse" style="animation-delay: 2.1s;"/>
+  <circle cx="15" cy="25" r="0.2" class="star star-twinkle" style="animation-delay: 2.6s;"/>
+  <circle cx="390" cy="30" r="0.3" class="star star-float" style="animation-delay: 3.1s;"/>
+  
+  <g class="name-text">
+    <text x="200" y="45" text-anchor="middle">
+      <tspan class="letter">K</tspan><tspan class="letter">U</tspan><tspan class="letter">S</tspan><tspan class="letter">H</tspan><tspan class="letter">A</tspan><tspan class="letter">G</tspan><tspan class="letter">R</tspan><tspan class="letter">A</tspan><tspan class="letter"> </tspan><tspan class="letter">S</tspan><tspan class="letter">I</tspan><tspan class="letter">S</tspan><tspan class="letter">O</tspan><tspan class="letter">D</tspan><tspan class="letter">I</tspan><tspan class="letter">A</tspan>
+    </text>
+  </g>
+</svg>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushgit07&label=Profile%20views&color=0e75b6&style=flat" alt="kushgit07" /> </p>
 
