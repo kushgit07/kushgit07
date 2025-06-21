@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/KUSHAGRA SISODIA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KUSHAGRA SISODIA" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kushagra-s-72758a250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kushagra-s-72758a250/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kushagrasisodia27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kushagrasisodia27" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kushagras4v4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kushagras4v4d" height="30" width="40" /></a>
 </p>
