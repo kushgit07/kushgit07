@@ -1,27 +1,25 @@
 <h1 align="center">Hi 👋, I'm KUSHAGRA SISODIA</h1>
 <h3 align="center">A passionate frontend developer from India with knowledge in computer science stuff</h3>
-<svg width="400" height="80" xmlns="http://www.w3.org/2000/svg">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushgit07&label=Profile%20views&color=0e75b6&style=flat" alt="kushgit07" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushgit07" alt="kushgit07" /></a> </p>
+
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#f0f8ff;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1" />
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#161b22;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#21262d;stop-opacity:1" />
     </linearGradient>
     
-    <linearGradient id="hoverGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ffd700;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#ffeb3b;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ffd700;stop-opacity:1" />
+    <linearGradient id="playerGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#39d353;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2ea043;stop-opacity:1" />
     </linearGradient>
-    
-    <radialGradient id="bgGradient" cx="50%" cy="50%" r="70%">
-      <stop offset="0%" style="stop-color:#1a1a2e;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#16213e;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0f0f23;stop-opacity:1" />
-    </radialGradient>
     
     <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
       <feMerge> 
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -34,142 +32,202 @@
       fill: url(#bgGradient);
     }
     
-    .star {
-      fill: #ffffff;
-      opacity: 0.8;
+    .grid-line {
+      stroke: #30363d;
+      stroke-width: 0.5;
+      opacity: 0.3;
     }
     
-    .star-twinkle {
-      animation: twinkle 2s ease-in-out infinite;
-    }
-    
-    .star-float {
-      animation: float 4s ease-in-out infinite;
-    }
-    
-    .star-pulse {
-      animation: pulse 3s ease-in-out infinite;
-    }
-    
-    @keyframes twinkle {
-      0%, 100% { opacity: 0.3; transform: scale(0.8); }
-      50% { opacity: 1; transform: scale(1.2); }
-    }
-    
-    @keyframes float {
-      0%, 100% { transform: translateY(0px) translateX(0px); }
-      25% { transform: translateY(-3px) translateX(2px); }
-      50% { transform: translateY(2px) translateX(-1px); }
-      75% { transform: translateY(-1px) translateX(3px); }
-    }
-    
-    @keyframes pulse {
-      0%, 100% { opacity: 0.5; }
-      50% { opacity: 1; }
-    }
-    
-    .name-text {
-      font-family: 'Arial', sans-serif;
-      font-size: 28px;
-      font-weight: bold;
-      fill: url(#textGradient);
-      cursor: pointer;
-      transition: all 0.3s ease;
+    .player {
+      fill: url(#playerGradient);
       filter: url(#glow);
     }
     
-    .name-text:hover {
-      fill: url(#hoverGradient);
-      transform: scale(1.05);
-      filter: url(#glow) drop-shadow(0px 0px 10px rgba(255,215,0,0.6));
+    .code-symbol {
+      font-family: 'Courier New', monospace;
+      font-size: 14px;
+      font-weight: bold;
+      text-anchor: middle;
+      dominant-baseline: middle;
     }
     
-    .letter {
-      animation: wave 2s ease-in-out infinite;
+    .symbol-js { fill: #f7df1e; }
+    .symbol-python { fill: #3776ab; }
+    .symbol-react { fill: #61dafb; }
+    .symbol-git { fill: #f05032; }
+    .symbol-css { fill: #1572b6; }
+    .symbol-html { fill: #e34f26; }
+    
+    .collected {
+      animation: collect 0.5s ease-out forwards;
     }
     
-    .letter:nth-child(1) { animation-delay: 0s; }
-    .letter:nth-child(2) { animation-delay: 0.1s; }
-    .letter:nth-child(3) { animation-delay: 0.2s; }
-    .letter:nth-child(4) { animation-delay: 0.3s; }
-    .letter:nth-child(5) { animation-delay: 0.4s; }
-    .letter:nth-child(6) { animation-delay: 0.5s; }
-    .letter:nth-child(7) { animation-delay: 0.6s; }
-    .letter:nth-child(8) { animation-delay: 0.7s; }
-    .letter:nth-child(9) { animation-delay: 0.8s; }
-    .letter:nth-child(10) { animation-delay: 0.9s; }
-    .letter:nth-child(11) { animation-delay: 1.0s; }
-    .letter:nth-child(12) { animation-delay: 1.1s; }
-    .letter:nth-child(13) { animation-delay: 1.2s; }
-    .letter:nth-child(14) { animation-delay: 1.3s; }
-    .letter:nth-child(15) { animation-delay: 1.4s; }
-    
-    @keyframes wave {
-      0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-5px); }
+    @keyframes collect {
+      0% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.5; transform: scale(1.5); }
+      100% { opacity: 0; transform: scale(0); }
     }
     
-    .name-text:hover .letter {
-      animation: bounce 0.6s ease;
+    .player-move {
+      animation: move 20s linear infinite;
     }
     
-    @keyframes bounce {
-      0%, 100% { transform: translateY(0px); }
-      25% { transform: translateY(-8px); }
-      50% { transform: translateY(-4px); }
-      75% { transform: translateY(-6px); }
+    @keyframes move {
+      0% { transform: translate(20px, 60px); }
+      5% { transform: translate(80px, 60px); }
+      10% { transform: translate(140px, 60px); }
+      15% { transform: translate(200px, 60px); }
+      20% { transform: translate(260px, 60px); }
+      25% { transform: translate(320px, 60px); }
+      30% { transform: translate(380px, 60px); }
+      35% { transform: translate(440px, 60px); }
+      40% { transform: translate(500px, 60px); }
+      45% { transform: translate(560px, 60px); }
+      50% { transform: translate(560px, 120px); }
+      55% { transform: translate(500px, 120px); }
+      60% { transform: translate(440px, 120px); }
+      65% { transform: translate(380px, 120px); }
+      70% { transform: translate(320px, 120px); }
+      75% { transform: translate(260px, 120px); }
+      80% { transform: translate(200px, 120px); }
+      85% { transform: translate(140px, 120px); }
+      90% { transform: translate(80px, 120px); }
+      95% { transform: translate(20px, 120px); }
+      100% { transform: translate(20px, 60px); }
+    }
+    
+    .symbol-1 { animation: symbol-collect-1 20s linear infinite; }
+    .symbol-2 { animation: symbol-collect-2 20s linear infinite; }
+    .symbol-3 { animation: symbol-collect-3 20s linear infinite; }
+    .symbol-4 { animation: symbol-collect-4 20s linear infinite; }
+    .symbol-5 { animation: symbol-collect-5 20s linear infinite; }
+    .symbol-6 { animation: symbol-collect-6 20s linear infinite; }
+    .symbol-7 { animation: symbol-collect-7 20s linear infinite; }
+    .symbol-8 { animation: symbol-collect-8 20s linear infinite; }
+    
+    @keyframes symbol-collect-1 {
+      0%, 4.9% { opacity: 1; transform: scale(1); }
+      5%, 100% { opacity: 0; transform: scale(0); }
+    }
+    
+    @keyframes symbol-collect-2 {
+      0%, 9.9% { opacity: 1; transform: scale(1); }
+      10%, 100% { opacity: 0; transform: scale(0); }
+    }
+    
+    @keyframes symbol-collect-3 {
+      0%, 14.9% { opacity: 1; transform: scale(1); }
+      15%, 100% { opacity: 0; transform: scale(0); }
+    }
+    
+    @keyframes symbol-collect-4 {
+      0%, 19.9% { opacity: 1; transform: scale(1); }
+      20%, 100% { opacity: 0; transform: scale(0); }
+    }
+    
+    @keyframes symbol-collect-5 {
+      0%, 54.9% { opacity: 1; transform: scale(1); }
+      55%, 100% { opacity: 0; transform: scale(0); }
+    }
+    
+    @keyframes symbol-collect-6 {
+      0%, 64.9% { opacity: 1; transform: scale(1); }
+      65%, 100% { opacity: 0; transform: scale(0); }
+    }
+    
+    @keyframes symbol-collect-7 {
+      0%, 74.9% { opacity: 1; transform: scale(1); }
+      75%, 100% { opacity: 0; transform: scale(0); }
+    }
+    
+    @keyframes symbol-collect-8 {
+      0%, 84.9% { opacity: 1; transform: scale(1); }
+      85%, 100% { opacity: 0; transform: scale(0); }
+    }
+    
+    .trail {
+      fill: #39d353;
+      opacity: 0.3;
+      animation: trail-fade 1s ease-out forwards;
+    }
+    
+    @keyframes trail-fade {
+      0% { opacity: 0.3; }
+      100% { opacity: 0; }
+    }
+    
+    .score-text {
+      font-family: 'Courier New', monospace;
+      font-size: 12px;
+      fill: #58a6ff;
+      font-weight: bold;
+    }
+    
+    .game-title {
+      font-family: 'Courier New', monospace;
+      font-size: 14px;
+      fill: #f0f6fc;
+      font-weight: bold;
+      text-anchor: middle;
     }
   </style>
   
-  <!-- Starry Background -->
-  <rect width="400" height="80" class="background"/>
+  <!-- Background -->
+  <rect width="600" height="200" class="background"/>
   
-  <!-- Animated Stars -->
-  <!-- Large twinkling stars -->
-  <circle cx="50" cy="20" r="1.5" class="star star-twinkle" style="animation-delay: 0s;"/>
-  <circle cx="120" cy="15" r="1" class="star star-pulse" style="animation-delay: 0.5s;"/>
-  <circle cx="180" cy="25" r="1.2" class="star star-float" style="animation-delay: 1s;"/>
-  <circle cx="280" cy="18" r="1" class="star star-twinkle" style="animation-delay: 1.5s;"/>
-  <circle cx="350" cy="22" r="1.3" class="star star-pulse" style="animation-delay: 2s;"/>
-  
-  <!-- Medium stars -->
-  <circle cx="30" cy="60" r="0.8" class="star star-float" style="animation-delay: 0.3s;"/>
-  <circle cx="90" cy="65" r="1" class="star star-twinkle" style="animation-delay: 0.8s;"/>
-  <circle cx="150" cy="70" r="0.7" class="star star-pulse" style="animation-delay: 1.3s;"/>
-  <circle cx="220" cy="62" r="0.9" class="star star-float" style="animation-delay: 1.8s;"/>
-  <circle cx="320" cy="68" r="0.8" class="star star-twinkle" style="animation-delay: 2.3s;"/>
-  <circle cx="380" cy="65" r="1" class="star star-pulse" style="animation-delay: 2.8s;"/>
-  
-  <!-- Small scattered stars -->
-  <circle cx="70" cy="35" r="0.5" class="star star-pulse" style="animation-delay: 0.2s;"/>
-  <circle cx="140" cy="55" r="0.4" class="star star-twinkle" style="animation-delay: 0.7s;"/>
-  <circle cx="200" cy="10" r="0.6" class="star star-float" style="animation-delay: 1.2s;"/>
-  <circle cx="260" cy="70" r="0.5" class="star star-pulse" style="animation-delay: 1.7s;"/>
-  <circle cx="300" cy="40" r="0.4" class="star star-twinkle" style="animation-delay: 2.2s;"/>
-  <circle cx="370" cy="45" r="0.6" class="star star-float" style="animation-delay: 2.7s;"/>
-  <circle cx="25" cy="40" r="0.4" class="star star-pulse" style="animation-delay: 3.2s;"/>
-  <circle cx="110" cy="30" r="0.5" class="star star-twinkle" style="animation-delay: 3.7s;"/>
-  <circle cx="240" cy="35" r="0.4" class="star star-float" style="animation-delay: 4.2s;"/>
-  
-  <!-- Tiny stars for depth -->
-  <circle cx="60" cy="50" r="0.3" class="star star-float" style="animation-delay: 0.1s;"/>
-  <circle cx="100" cy="45" r="0.2" class="star star-pulse" style="animation-delay: 0.6s;"/>
-  <circle cx="160" cy="40" r="0.3" class="star star-twinkle" style="animation-delay: 1.1s;"/>
-  <circle cx="290" cy="55" r="0.2" class="star star-float" style="animation-delay: 1.6s;"/>
-  <circle cx="340" cy="35" r="0.3" class="star star-pulse" style="animation-delay: 2.1s;"/>
-  <circle cx="15" cy="25" r="0.2" class="star star-twinkle" style="animation-delay: 2.6s;"/>
-  <circle cx="390" cy="30" r="0.3" class="star star-float" style="animation-delay: 3.1s;"/>
-  
-  <g class="name-text">
-    <text x="200" y="45" text-anchor="middle">
-      <tspan class="letter">K</tspan><tspan class="letter">U</tspan><tspan class="letter">S</tspan><tspan class="letter">H</tspan><tspan class="letter">A</tspan><tspan class="letter">G</tspan><tspan class="letter">R</tspan><tspan class="letter">A</tspan><tspan class="letter"> </tspan><tspan class="letter">S</tspan><tspan class="letter">I</tspan><tspan class="letter">S</tspan><tspan class="letter">O</tspan><tspan class="letter">D</tspan><tspan class="letter">I</tspan><tspan class="letter">A</tspan>
-    </text>
+  <!-- Grid -->
+  <g class="grid">
+    <line x1="0" y1="40" x2="600" y2="40" class="grid-line"/>
+    <line x1="0" y1="80" x2="600" y2="80" class="grid-line"/>
+    <line x1="0" y1="120" x2="600" y2="120" class="grid-line"/>
+    <line x1="0" y1="160" x2="600" y2="160" class="grid-line"/>
+    
+    <line x1="60" y1="0" x2="60" y2="200" class="grid-line"/>
+    <line x1="120" y1="0" x2="120" y2="200" class="grid-line"/>
+    <line x1="180" y1="0" x2="180" y2="200" class="grid-line"/>
+    <line x1="240" y1="0" x2="240" y2="200" class="grid-line"/>
+    <line x1="300" y1="0" x2="300" y2="200" class="grid-line"/>
+    <line x1="360" y1="0" x2="360" y2="200" class="grid-line"/>
+    <line x1="420" y1="0" x2="420" y2="200" class="grid-line"/>
+    <line x1="480" y1="0" x2="480" y2="200" class="grid-line"/>
+    <line x1="540" y1="0" x2="540" y2="200" class="grid-line"/>
   </g>
+  
+  <!-- Game Title -->
+  <text x="300" y="20" class="game-title">CODE COLLECTOR</text>
+  
+  <!-- Score -->
+  <text x="20" y="180" class="score-text">SCORE: </text>
+  <text x="80" y="180" class="score-text">
+    <animate attributeName="fill" values="#58a6ff;#39d353;#58a6ff" dur="2s" repeatCount="indefinite"/>
+    8/8
+  </text>
+  
+  <!-- Code Symbols to Collect -->
+  <text x="80" y="60" class="code-symbol symbol-js symbol-1">JS</text>
+  <text x="140" y="60" class="code-symbol symbol-python symbol-2">PY</text>
+  <text x="200" y="60" class="code-symbol symbol-react symbol-3">⚛</text>
+  <text x="260" y="60" class="code-symbol symbol-git symbol-4">GIT</text>
+  
+  <text x="500" y="120" class="code-symbol symbol-css symbol-5">CSS</text>
+  <text x="440" y="120" class="code-symbol symbol-html symbol-6">HTML</text>
+  <text x="380" y="120" class="code-symbol symbol-js symbol-7">TS</text>
+  <text x="140" y="120" class="code-symbol symbol-react symbol-8">⚡</text>
+  
+  <!-- Player (Moving Square) -->
+  <rect x="0" y="0" width="16" height="16" rx="2" class="player player-move"/>
+  
+  <!-- Additional decorative elements -->
+  <circle cx="550" cy="40" r="2" fill="#39d353" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="30" cy="160" r="1.5" fill="#58a6ff" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="570" cy="160" r="1" fill="#f7df1e" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
 </svg>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushgit07&label=Profile%20views&color=0e75b6&style=flat" alt="kushgit07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushgit07" alt="kushgit07" /></a> </p>
 
 
 - 🔭 I’m currently working on [promptforage](https://kushgit07.github.io/PromptForge/)
