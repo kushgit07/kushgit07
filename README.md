@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushgit07" alt="kushgit07" /></a> </p>
 
 
-- 🔭 I’m currently working on [promptforage](https://kushgit07.github.io/PromptForge/)
+- 🔭 I’m currently working on [promptforage](https://github.com/kushgit07/PromptForge)
 
 - 🌱 I’m currently learning **react js , node js , next js , express js , mongodb ....**
 
