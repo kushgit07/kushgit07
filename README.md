@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **kushagrasisodia27@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/kushgit07/MY_RESUME/blob/main/Kushagra%20Sisodia_Resume.pdf](https://github.com/kushgit07/MY_RESUME/blob/main/Kushagra%20Sisodia_Resume.pdf)
+- 📄 Know about my experiences [https://my-portfolio-git-main-kushagra-sisodias-projects.vercel.app/](https://my-portfolio-git-main-kushagra-sisodias-projects.vercel.app/)
 
 - ⚡ Fun fact **I AM A FUNNY GUY WITH A GOOD SENSE OF HUMOUR**
 
