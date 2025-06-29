@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India with knowledge in computer science stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushgit07&label=Profile%20views&color=0e75b6&style=flat" alt="kushgit07" /> </p>
-<p[![trophy](https://github-profile-trophy.vercel.app/?username=kushgit07)](<img src="https://github.com/kushgit07/github-profile-trophy"/>) </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushgit07" alt="kushgit07" /></a> </p>
 
