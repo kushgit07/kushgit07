@@ -1,5 +1,4 @@
-
-![Header](./github-header-image(1).png)
+![Header](./github-header-image(2).png)
 
 <h3 align="center">A passionate frontend developer from India with knowledge in computer science stuff</h3>
 
