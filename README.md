@@ -57,6 +57,14 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushgit07&theme=dark) 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushgit07&theme=dark) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kushgit07&theme=dark) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushgit07&theme=dark) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kushgit07&theme=dark&utcOffset=8) 
+
 
 
 ### 🔝 Top Contributed Repo
