@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm KUSHAGRA SISODIA</h1>
+![Header](./[Kushagra sisodia])
 <h3 align="center">A passionate frontend developer from India with knowledge in computer science stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushgit07&label=Profile%20views&color=0e75b6&style=flat" alt="kushgit07" /> </p>
