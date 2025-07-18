@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushgit07" alt="kushgit07" /></a> </p>
 
 
-- 🌱 I’m currently learning **react js , node js , next js , express js , mongodb ....**
+- 🌱 I’m currently learning **react js , node js , next js , express js , mongod ....**
 
 - 👯 I’m looking to collaborate on **MERN STACK**
 
