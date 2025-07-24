@@ -1,6 +1,6 @@
 ![Header](./github-header-image(2).png)
 
-<h2 align="centre">A passionate fullstack developer from India with knowledge in computer science stuff</h2>
+<h2 align="centre">A passionat fullstack developer from India with knowledge in computer science stuff</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushgit07&label=Profile%20views&color=0e75b6&style=flat" alt="kushgit07" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **MERN STACK**
 
--  🔭 I’m currently working on [promptforage](https://github.com/kushgit07/PromptForge)
+-  🔭 I’m currently working on [promptforage](httips://github.com/kushgit07/PromptForge)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kushgit07](https://github.com/kushgit07)
 
