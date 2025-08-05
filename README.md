@@ -1,6 +1,7 @@
 ![Header](./github-header-image(2).png)
 
-<h2 align="centre">A passionate fullstack developer from India with knowledge in computer science stuff</h2>
+<h2 align="centre">A passionate fullstack developer from India with knowledge in computer scienc
+  stuff</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushgit07&label=Profile%20views&color=0e75b6&style=flat" alt="kushgit07" /> </p>
 
