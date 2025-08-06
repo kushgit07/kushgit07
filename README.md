@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://my-portfolio-git-main-kushagra-sisodias-projects.vercel.app/](https://my-portfolio-git-main-kushagra-sisodias-projects.vercel.app/)
 
-- ⚡ Fun fact **I AM A FUNNY GUY WITH A GOOD SENSE OF HUMOUR**
+- ⚡ Fun fact 
 
   
 <!-- Snake Game Repo View -->
