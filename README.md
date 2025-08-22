@@ -48,11 +48,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushgit07&" alt="kushgit07" /></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushgit07&theme=dark) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kushgit07&theme=dark) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kushgit07&theme=dark) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushgit07&theme=dark)      
 
