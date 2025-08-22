@@ -1,4 +1,4 @@
-![Header](./github-header-image(2).png)
+
 
 <h2 align="centre">A passionate developer from India with knowledge in computer science
   stuff</h2>
