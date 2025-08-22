@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushgit07" alt="kushgit07" /></a> </p>
 
 
-- 🌱 I’m currently learning **react js , node js , next js , express js , mongodb ....**
+- 🌱 I’m currently learning **react js , mongodb ....**
 
 - 👯 I’m looking to collaborate on **MERN STACK**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kushgit07](https://github.com/kushgit07)
 
-- 💬 Ask me about **react , javascript ,express js , sql , mongodb ...**
+- 💬 Ask me about ** sql , pandas , tenserflow...**
 
 - 📫 How to reach me **kushagrasisodia27@gmail.com**
 
