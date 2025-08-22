@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **react js , mongodb ....**
 
-- 👯 I’m looking to collaborate on **MERN STACK**
+- 👯 I’m looking to collaborate on **ML AND DATA ANALYTICS**
 
 -  🔭 I’m currently working on [promptforage](httips://github.com/kushgit07/PromptForge)
 
