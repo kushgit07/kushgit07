@@ -1,7 +1,7 @@
 
 
 <h2 align="centre">   A passionate developer from India with knowledge in computer science
-  stuff and tech</h2>
+  stuff and tech...</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushgit07&label=Profile%20views&color=0e75b6&style=flat" alt="kushgit07" /> </p>
 
