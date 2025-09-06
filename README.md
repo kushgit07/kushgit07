@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **ML AND DATA ANALYTICS**
 
--  🔭 I’m currently working on [Solar efficiency prediction]
+-  🔭 I’m currently working on Solar efficiency prediction
 
 - 👨‍💻 All of my projects are available at [https://github.com/kushgit07](https://github.com/kushgit07)
 
