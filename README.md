@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushgit07" alt="kushgit07" /></a> </p>
 
 
-- 🌱 I’m currently learning **react js , mongodb ....**
+- 🌱 I’m currently learning **Power BI , SQL....**
 
 - 👯 I’m looking to collaborate on **ML AND DATA ANALYTICS**
 
